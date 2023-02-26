@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author devad
+ *
+ */
+module String {
+}
